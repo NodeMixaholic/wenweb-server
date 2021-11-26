@@ -4,7 +4,7 @@ let crypto = require('crypto');
 var path = require('path');
 let gun = GUN()
 let domain = "change.me"
-let wendomain = `@${domain}`
+let wendomain = `@wenweb@${domain}`
 let login = [];
 login[0] = wendomain;
 let pubkey;
