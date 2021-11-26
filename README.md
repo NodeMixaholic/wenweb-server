@@ -11,3 +11,11 @@ WenWeb is a new layer/protocol on the WWW as a hobby of mine. It's basically a s
 * Secure.
 * Wicked fast.
 * Up and running with a simple server in 30 minutes, perhaps less. (Speedrunnable?)
+
+# How to.
+* install nodejs and add it to the path.
+* cd into directory
+* run `npm i`
+* edit index.js to have your desired domain in the **domain** varaible, NOT the *wendomain* variable
+* go back to the terminal where you ran npm i (terminal in directory)
+* run `node index.js`
