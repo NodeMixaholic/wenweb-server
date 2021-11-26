@@ -1,0 +1,22 @@
+{
+  "name": "wenweb-server",
+  "version": "1.0.0",
+  "description": "Server for a WenWeb site",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodemixaholic/wenweb.git"
+  },
+  "author": "Samuel Lord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodemixaholic/wenweb/issues"
+  },
+  "homepage": "https://github.com/nodemixaholic/wenweb#readme",
+  "dependencies": {
+    "gun": "^0.2020.1235"
+  }
+}
