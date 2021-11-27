@@ -19,3 +19,9 @@ WenWeb is a new layer/protocol on the WWW as a hobby of mine. It's basically a s
 * edit index.js to have your desired domain in the **domain** varaible, NOT the *wendomain* variable
 * go back to the terminal where you ran npm i (terminal in directory)
 * run `node index.js`
+
+# Supported codecs (listed as MIME-types)
+***DRM-FREE*** (as in no drm) variants of the following:
+* image/png
+* video/webm
+* audio/ogg
