@@ -11,6 +11,7 @@ WenWeb is a new layer/protocol on the WWW as a hobby of mine. It's basically a s
 * Secure.
 * Wicked fast.
 * Up and running with a simple server in 30 minutes, perhaps less. (Speedrunnable?)
+* 100% free-as-in-price to use!
 
 # How to.
 * install nodejs and add it to the path.
